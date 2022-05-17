@@ -2,12 +2,18 @@
 
 Na AWS podemos ter o banco de dados configurado dentro do EC2 e também podemos ter serviços gerenciados, no qual a AWS provisiona o banco.  
 
-### RDS (Bancos de dados relacionais )
+### RDS (Bancos de dados relacionais )  
+
+[Amazon RDS](https://aws.amazon.com/pt/rds/features/)  
+
 * Serviços gerenciados de bancos de dados relacionais  
 * Pague pelo que usar  
 * PostgreSQL, MySQL, MariaDB, Oracle, SQL Server  
 * Amazon Aurora: Próprio da AWS, construído em cima da engine MySQL e PostGreSQL. Promessa que a performance é melhor que os nativos mySQL e postgress.  
-*  Aurora Serveless.  Use o banco e após de uma inatividade será pausado.  
+*  Aurora Serveless.  Use o banco e após de uma inatividade será pausado.    
+
+Read Réplicas - Uma maneira de escalar os banco de dados relacionais para suportar processamento:
+https://aws.amazon.com/pt/rds/features/read-replicas/
 
 ### Dynamo DB (Dados não relacionais)
 
