@@ -1,7 +1,9 @@
-Serviços e recursos da AWS
+# Serviços e recursos da AWS
+As palavras-chaves estão entre parênteses.  
+
 ### Análises:
-* Amazon Athena (Análise de dados, crawler) 
-  * O Amazon Athena é um serviço de consultas interativas que facilita a análise de dados no __Amazon__ S3 usando SQL padrão. O Athena não precisa de servidor. Portanto, não há infraestrutura para gerenciar e você paga apenas pelas consultas executadas.  [Amazon AthEna](https://aws.amazon.com/pt/athena/?whats-new-cards.sort-by=item.additionalFields.postDateTime&whats-new-cards.sort-order=desc)  
+* Amazon Athena (Análise de dados no S3) 
+  * O Amazon Athena é um serviço de consultas interativas que facilita a análise de dados no __Amazon S3__ usando SQL padrão. O Athena não precisa de servidor. Portanto, não há infraestrutura para gerenciar e você paga apenas pelas consultas executadas.  [Amazon AthEna](https://aws.amazon.com/pt/athena/?whats-new-cards.sort-by=item.additionalFields.postDateTime&whats-new-cards.sort-order=desc)  
   
 * Amazon Kinesis (Streamer de dados e videos, real time)
     * O Amazon Kinesis facilita a coleta, o processamento e a análise de dados de streaming em tempo real, permitindo que você obtenha insights oportunos e reaja rapidamente às novas informações. [Amazon Kinesis](https://aws.amazon.com/pt/kinesis/)
@@ -16,9 +18,16 @@ Serviços e recursos da AWS
 * Amazon Simple Queue Service (__Amazon SQS__)  (Serviço de mensageiria)  
    * O Amazon Simple Queue Service (SQS) é um serviço de filas de mensagens gerenciado que permite o desacoplamento e a escalabilidade de microsserviços, sistemas distribuídos e aplicações sem servidor. [Amazon SQS](https://aws.amazon.com/pt/sqs/)
 
-### Serviços de computação e sem servidor:
-* AWS Batch
-* Amazon EC2 
+
+
+### Serviços de computação e sem servidor:  
+* AWS Batch (processamento em lote)  
+   *   O AWS Batch possibilita que desenvolvedores, cientistas e engenheiros executem de modo fácil e eficiente centenas de milhares de tarefas de computação em lote na AWS. O AWS Batch provisiona dinamicamente a quantidade e o tipo de recursos computacionais ideais (por exemplo, instâncias otimizadas para CPU ou memória) com base nos requisitos de volume e recursos específicos das tarefas em lote enviadas.  [Amazon Batch](https://aws.amazon.com/pt/batch/?nc=sn&loc=0) 
+
+
+* Amazon EC2 (recursos computacionais, virtualização)   
+   * O Amazon Elastic Compute Cloud (Amazon EC2) oferece a plataforma de computação mais ampla e profunda, com mais de 500 instâncias e opções do processador, armazenamento, redes, sistema operacional e modelo de compra mais recentes para ajudar você a atender melhor às necessidades da sua workload. [Amazon EC2](https://aws.amazon.com/pt/ec2)  
+   
 * AWS Elastic Beanstalk
 * AWS Lambda
 * Amazon Lightsail
