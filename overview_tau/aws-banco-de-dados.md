@@ -5,10 +5,13 @@ Na AWS podemos ter o banco de dados configurado dentro do EC2 e também podemos 
 ### RDS (Bancos de dados relacionais [Relational DataBase Services])  
 
 Faz parte dos servios gerenciados, ou seja, a AWS que cuida dele para os usuários.  
-Eles possuem a Opção MultiAZ. Quando escolhemos esta opção é feita uma réplica do banco secundário em outra subnet. Se o banco tiver muita leitura e pouca escrita, podemos criar um divisão do tráfego com uma Read Replica (Read Réplicas - Uma maneira de escalar os banco de dados relacionais para suportar processamento:
-https://aws.amazon.com/pt/rds/features/read-replicas/). 
 
-[Amazon RDS](https://aws.amazon.com/pt/rds/features/)  
+Eles possuem a Opção MultiAZ. Quando escolhemos esta opção é feita uma réplica do banco secundário em outra subnet. Se o banco tiver muita leitura e pouca escrita, podemos criar um divisão do tráfego com uma Read Replicas(uma maneira de escalar os banco de dados relacionais para suportar processamento).
+
+[Read Replicas](https://aws.amazon.com/pt/rds/features/read-replicas/). 
+
+[Amazon RDS](https://aws.amazon.com/pt/rds/features/)   
+
 
 * Serviços gerenciados de bancos de dados relacionais  
 * Pague pelo que usar  
