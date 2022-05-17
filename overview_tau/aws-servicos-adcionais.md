@@ -1,7 +1,7 @@
 Serviços e recursos da AWS
 ### Análises:
 * Amazon Athena (Análise de dados, crawler) 
-  * O Amazon Athena é um serviço de consultas interativas que facilita a análise de dados no Amazon S3 usando SQL padrão. O Athena não precisa de servidor. Portanto, não há infraestrutura para gerenciar e você paga apenas pelas consultas executadas.  [Amazon AthEna](https://aws.amazon.com/pt/athena/?whats-new-cards.sort-by=item.additionalFields.postDateTime&whats-new-cards.sort-order=desc)  
+  * O Amazon Athena é um serviço de consultas interativas que facilita a análise de dados no __Amazon__ S3 usando SQL padrão. O Athena não precisa de servidor. Portanto, não há infraestrutura para gerenciar e você paga apenas pelas consultas executadas.  [Amazon AthEna](https://aws.amazon.com/pt/athena/?whats-new-cards.sort-by=item.additionalFields.postDateTime&whats-new-cards.sort-order=desc)  
   
 * Amazon Kinesis (Streamer de dados e videos, real time)
     * O Amazon Kinesis facilita a coleta, o processamento e a análise de dados de streaming em tempo real, permitindo que você obtenha insights oportunos e reaja rapidamente às novas informações. [Amazon Kinesis](https://aws.amazon.com/pt/kinesis/)
