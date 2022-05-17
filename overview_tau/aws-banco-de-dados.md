@@ -9,6 +9,7 @@ Faz parte dos servios gerenciados, ou seja, a AWS que cuida dele para os usuári
 Eles possuem a Opção MultiAZ. Quando escolhemos esta opção é feita uma réplica do banco secundário em outra subnet. Se o banco tiver muita leitura e pouca escrita, podemos criar um divisão do tráfego com uma Read Replicas(uma maneira de escalar os banco de dados relacionais para suportar processamento).
 
 [Read Replicas](https://aws.amazon.com/pt/rds/features/read-replicas/). 
+*As Réplicas de leitura do Amazon RDS proporcionam desempenho e durabilidade melhores para instâncias de banco de dados (DB) do RDS.*
 
 [Amazon RDS](https://aws.amazon.com/pt/rds/features/)   
 
