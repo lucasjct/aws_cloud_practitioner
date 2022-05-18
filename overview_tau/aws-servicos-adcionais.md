@@ -69,15 +69,20 @@ As palavras-chaves estão entre parênteses.
 
 
 * Amazon RDS   (Serviços para banco de dados relacionais)
-  * O Amazon Relational Database Service (RDS) é uma coleção de serviços gerenciados que facilita a configuração, operação e escalabilidade de bancos de dados na nuvem. Escolha entre sete opções de mecanismos bastante utilizados: Amazon Aurora compatível com MySQL, Amazon Aurora compatível com *PostgreSQL, MySQL, MariaDB, PostgreSQL, Oracle e SQL Server*. Depois, implante on-premises com o Amazon RDS on AWS Outposts. [Amazon RDS](https://aws.amazon.com/pt/rds/)   
+   * O Amazon Relational Database Service (RDS) é uma coleção de serviços gerenciados que facilita a configuração, operação e escalabilidade de bancos de dados na nuvem. Escolha entre sete opções de mecanismos bastante utilizados: Amazon Aurora compatível com MySQL, Amazon Aurora compatível com *PostgreSQL, MySQL, MariaDB, PostgreSQL, Oracle e SQL Server*. Depois, implante on-premises com o Amazon RDS on AWS Outposts. [Amazon RDS](https://aws.amazon.com/pt/rds/)   
 
 
-* Amazon Redshift (Serviço para BigData)  
- *  Amazon Redshift usa SQL para analisar dados estruturados e semiestruturados em data warehouses, bancos de dados operacionais e data lakes, usando hardware e machine learning projetados pela AWS para oferecer a melhor performance de preço em qualquer escala. [Amazon Redshift](https://aws.amazon.com/pt/redshift/)
+* Amazon Redshift (Serviço para BigData)   
+  * Amazon Redshift usa SQL para analisar dados estruturados e semiestruturados em data warehouses, bancos de dados operacionais e data lakes, usando hardware e machine learning projetados pela AWS para oferecer a melhor performance de preço em qualquer escala. [Amazon Redshift](https://aws.amazon.com/pt/redshift/)
 
 ### Ferramentas de desenvolvedor:
-* AWS CodeBuild 
-* AWS CodeCommit
+* AWS CodeBuild (Compilar, buildar, Continuous Integration) 
+  * O AWS CodeBuild é um serviço de integração contínua totalmente gerenciado que compila o código-fonte, realiza testes e produz pacotes de software prontos para implantação. Com o CodeBuild, você não precisa provisionar, gerenciar e escalar seus próprios servidores de compilação. O CodeBuild escala continuamente e processa múltiplas compilações ao mesmo tempo, o que evita que elas fiquem esperando em uma fila. [AWS CodeBuild](https://aws.amazon.com/pt/codebuild/)  
+    
+* AWS CodeCommit (Versionamento de código)
+  * O AWS CodeCommit é um serviço de controle de origem gerenciado seguro e altamente dimensionável que hospeda repositórios privados do Git. Ele torna mais fácil para as equipes colaborarem com segurança no código com contribuições criptografadas em trânsito e em repouso. [ AWS CodeCommit](https://aws.amazon.com/pt/codecommit/)  
+
+
 * AWS CodeDeploy
 * AWS CodePipeline
 * AWS CodeStar   
