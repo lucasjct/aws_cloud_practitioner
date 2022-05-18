@@ -45,23 +45,35 @@ As palavras-chaves estão entre parênteses.
 ### Contêineres:  
 
 * Amazon Elastic Container Service (Amazon ECS) )(Containers)  
-   * O Amazon Elastic Container Service (Amazon ECS) é um serviço de gerenciamento de contêineres altamente rápido e escalável. Você pode usá-lo para executar, interromper e gerenciar contêineres em um cluster. No Amazon ECS, seus contêineres são definidos em uma definição de tarefa que você usa para executar tarefas individuais ou tarefas em um serviço. [Amazon ECS](https://docs.aws.amazon.com/pt_br/AmazonECS/latest/developerguide/Welcome.html)  
+   * O Amazon Elastic Container Service (Amazon ECS) é um serviço de gerenciamento de contêineres altamente rápido e escalável. Você pode usá-lo para executar, interromper e gerenciar contêineres em um cluster. No Amazon ECS, seus contêineres são definidos em uma definição de tarefa que você usa para executar tarefas individuais ou tarefas em um serviço. [Amazon ECS](https://docs.aws.amazon.com/pt_br/AmazonECS/latest/developerguide/Welcome.html).  
 
 
 * Amazon Elastic Kubernetes Service (Amazon EKS) (Gerenciamento de Containers)   
-  * O Kubernetes é um sistema de orquestração de contêineres de código aberto que permite implantar e gerenciar aplicações em contêineres em grande escala. [Amazon EKS](https://aws.amazon.com/pt/eks/faqs/)
+  * O Kubernetes é um sistema de orquestração de contêineres de código aberto que permite implantar e gerenciar aplicações em contêineres em grande escala. [Amazon EKS](https://aws.amazon.com/pt/eks/faqs/).
 
 
 * AWS Fargate (Computação sem servidor para contêineres)
-  * O Kubernetes é um sistema de orquestração de contêineres de código aberto que permite implantar e gerenciar aplicações em contêineres em grande escala. [AWS Fargate](https://aws.amazon.com/pt/eks/faqs/)    
+  * O AWS Fargate é um mecanismo de computação sem servidor para contêineres que funciona tanto com o Amazon Elastic Container Service (ECS) quanto com o Amazon Elastic Kubernetes Service (EKS). O AWS Fargate facilita a concentração no desenvolvimento de suas aplicações. [AWS Fargate](https://aws.amazon.com/pt/fargate/faqs/?nc=sn&loc=4).    
 
 
 ### Banco de dados:
-* Amazon Aurora
-* Amazon DynamoDB
-* Amazon ElastiCache
-* Amazon RDS
-* Amazon Redshift   
+* Amazon Aurora (Banco de Alta performance e disponibilidade)
+   * Amazon Aurora é um Relational Database Management System (RDBMS – Sistema de gerenciamento de banco de dados relacional) criado para a nuvem com total compatibilidade com MySQL e PostgreSQL. O Aurora oferece a performance e a disponibilidade de bancos de dados de nível comercial por um décimo do custo. [Amazon Aurora](https://aws.amazon.com/pt/rds/aurora/)  
+
+
+* Amazon DynamoDB (NoSQL)
+  * O Amazon DynamoDB é um banco de dados de chave-valor NoSQL, sem servidor e totalmente gerenciado, projetado para executar aplicações de alta performance em qualquer escala. O DynamoDB oferece segurança integrada, backups contínuos, replicação multirregional automatizada, armazenamento em cache na memória e ferramentas de exportação de dados. [Amazon DynamoDB](https://aws.amazon.com/pt/dynamodb/)  
+  
+* Amazon ElastiCache (Latência de microssegundos e dimensione com cache na memória)   
+  * O Amazon ElastiCache é um serviço de cache na memória totalmente gerenciado que oferece suporte a casos de uso flexíveis e em tempo real. Você pode usar o ElastiCache para armazenamento em cache, o que acelera a performance de aplicações e bancos de dados, ou como um armazenamento de dados principal para casos de uso que não exigem durabilidade, como armazenamentos de sessões, placares de jogos, streaming e análises. O ElastiCache é compatível com o Redis e o Memcached. [Amazon ElastiCache](https://aws.amazon.com/pt/elasticache/)
+
+
+* Amazon RDS   (Serviços para banco de dados relacionais)
+  * O Amazon Relational Database Service (RDS) é uma coleção de serviços gerenciados que facilita a configuração, operação e escalabilidade de bancos de dados na nuvem. Escolha entre sete opções de mecanismos bastante utilizados: Amazon Aurora compatível com MySQL, Amazon Aurora compatível com *PostgreSQL, MySQL, MariaDB, PostgreSQL, Oracle e SQL Server*. Depois, implante on-premises com o Amazon RDS on AWS Outposts. [Amazon RDS](https://aws.amazon.com/pt/rds/)   
+
+
+* Amazon Redshift (Serviço para BigData)  
+ *  Amazon Redshift usa SQL para analisar dados estruturados e semiestruturados em data warehouses, bancos de dados operacionais e data lakes, usando hardware e machine learning projetados pela AWS para oferecer a melhor performance de preço em qualquer escala. [Amazon Redshift](https://aws.amazon.com/pt/redshift/)
 
 ### Ferramentas de desenvolvedor:
 * AWS CodeBuild 
