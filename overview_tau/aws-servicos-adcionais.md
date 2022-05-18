@@ -20,7 +20,8 @@ As palavras-chaves estão entre parênteses.
 
 
 
-### Serviços de computação e sem servidor:  
+### Serviços de computação e sem servidor:   
+
 * AWS Batch (processamento em lote)  
    *   O AWS Batch possibilita que desenvolvedores, cientistas e engenheiros executem de modo fácil e eficiente centenas de milhares de tarefas de computação em lote na AWS. O AWS Batch provisiona dinamicamente a quantidade e o tipo de recursos computacionais ideais (por exemplo, instâncias otimizadas para CPU ou memória) com base nos requisitos de volume e recursos específicos das tarefas em lote enviadas.  [Amazon Batch](https://aws.amazon.com/pt/batch/?nc=sn&loc=0) 
 
@@ -28,13 +29,21 @@ As palavras-chaves estão entre parênteses.
 * Amazon EC2 (recursos computacionais, virtualização)   
    * O Amazon Elastic Compute Cloud (Amazon EC2) oferece a plataforma de computação mais ampla e profunda, com mais de 500 instâncias e opções do processador, armazenamento, redes, sistema operacional e modelo de compra mais recentes para ajudar você a atender melhor às necessidades da sua workload. [Amazon EC2](https://aws.amazon.com/pt/ec2)  
    
-* AWS Elastic Beanstalk
-* AWS Lambda
-* Amazon Lightsail
-* Amazon WorkSpaces   
+* AWS Elastic Beanstalk (Facilidade para buildar e configurar a aplicação)   
+  * Basta fazer o upload de seu código e o Elastic Beanstalk se encarrega automaticamente da implementação, desde o provisionamento de capacidade, o balanceamento de carga e a escalabilidade automática até o monitoramento da saúde do aplicativo. Ao mesmo tempo, você mantém total controle sobre os recursos da AWS que possibilitam a operação do seu aplicativo e pode acessar os recursos subjacentes a qualquer momento. [AWS Elastic Beanstalk ](https://aws.amazon.com/pt/elasticbeanstalk/).  
+  
+* AWS Lambda (Serveless, executar código sem servidores)  
+   *  AWS Lambda é um serviço de computação sem servidor e orientado a eventos que permite executar código para praticamente qualquer tipo de aplicação ou serviço de backend sem provisionar ou gerenciar servidores. [AWS Lambda](https://aws.amazon.com/pt/lambda/)   
+  
+* Amazon Lightsail (Facilidade em começar a usar a AWS)
+  * O Amazon Lightsail é um provedor de servidor privado virtual (VPS) e a maneira mais fácil de começar a usar a AWS para desenvolvedores, pequenas empresas, estudantes e outros usuários que precisam de uma solução para construir e hospedar suas aplicações na nuvem. [AWS Lightsail](https://aws.amazon.com/pt/lightsail/faq/)
+  
+* Amazon WorkSpaces (Acesso seguro, confiável e escalável aos desktops persistentes a partir de qualquer local).   
+  * R: Amazon WorkSpace é um desktop virtual na cloud que atua como substituto de um desktop tradicional. Um WorkSpace é disponibilizado na forma de um pacote com sistema operacional, recursos computacionais, espaço de armazenamento e aplicações de software que permitem a um usuário executar tarefas do dia a dia da mesma forma como faria com um desktop tradicional.  Amazon WorkSpaces é um serviço de desktop gerenciado e protegido na cloud. Você pode usar o Amazon WorkSpaces para provisionar desktops Windows ou Linux em apenas alguns minutos e escalar rapidamente para oferecer milhares de desktops a funcionários em todo o mundo. [Amazon WorkSpaces](https://aws.amazon.com/pt/workspaces/faqs/?nc=sn&loc=4)
 
 
-### Contêineres:
+### Contêineres:  
+
 * Amazon Elastic Container Service (Amazon ECS)
 * Amazon Elastic Kubernetes Service (Amazon EKS)
 * AWS Fargate   
