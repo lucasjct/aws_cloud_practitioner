@@ -83,10 +83,24 @@ As palavras-chaves estão entre parênteses.
   * O AWS CodeCommit é um serviço de controle de origem gerenciado seguro e altamente dimensionável que hospeda repositórios privados do Git. Ele torna mais fácil para as equipes colaborarem com segurança no código com contribuições criptografadas em trânsito e em repouso. [ AWS CodeCommit](https://aws.amazon.com/pt/codecommit/)  
 
 
-* AWS CodeDeploy
-* AWS CodePipeline
-* AWS CodeStar   
+* AWS CodeDeploy     
 
+ [AWS CodeDeploy](https://docs.aws.amazon.com/pt_br/codedeploy/latest/userguide/welcome.html)  
+ 
+  * Ferramenta gerenciada que facilita o deploy de algumas aplicações.O CodeDeploy é um serviço de implantação que automatiza implantações de aplicativos em instâncias do Amazon EC2, instâncias locais, em funções do Lambda sem servidor ou serviços do Amazon ECS.
+  
+* AWS CodePipeline (automação de pipelines, entrega contínua)
+
+[ AWS CodePipeline](https://aws.amazon.com/pt/codepipeline/)
+
+  * AWS CodePipeline é um serviço gerenciado de entrega contínua que ajuda a automatizar pipelines de liberação para oferecer atualizações rápidas e confiáveis de aplicativos e infraestruturas. O CodePipeline automatiza as fases de compilação, teste e implantação do processo de liberação sempre que ocorre uma mudança no código, de acordo com o modelo de liberação que você definiu. Isso permite disponibilizar recursos e atualizações de forma rápida e confiável. Você pode integrar facilmente o AWS CodePipeline com serviços de terceiros como GitHub ou com o seu próprio plug-in personalizado. Com o AWS CodePipeline, você paga somente pelo que utiliza. Não há custos iniciais nem compromissos de longo prazo.  
+
+
+* AWS CodeStar  
+
+ [AWS CodeStar](https://aws.amazon.com/pt/codestar/faqs/?nc=sn&loc=4)
+
+  *  Gerenciamento para criação e implantação de aplicações. O AWS CodeStar é um serviço de desenvolvimento baseado na nuvem que disponibiliza as ferramentas necessárias para desenvolver, compilar e implantar rapidamente aplicativos na AWS. Com o AWS CodeStar, é possível configurar toda a sua cadeia de ferramentas de entrega contínua em questão de minutos, possibilitando que você comece o lançamento de código mais rapidamente.
 
 ### Interação com os clientes: 
 * Amazon Connect   
