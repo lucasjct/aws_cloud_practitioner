@@ -39,14 +39,22 @@ As palavras-chaves estão entre parênteses.
   * O Amazon Lightsail é um provedor de servidor privado virtual (VPS) e a maneira mais fácil de começar a usar a AWS para desenvolvedores, pequenas empresas, estudantes e outros usuários que precisam de uma solução para construir e hospedar suas aplicações na nuvem. [AWS Lightsail](https://aws.amazon.com/pt/lightsail/faq/)
   
 * Amazon WorkSpaces (Acesso seguro, confiável e escalável aos desktops persistentes a partir de qualquer local).   
-  * R: Amazon WorkSpace é um desktop virtual na cloud que atua como substituto de um desktop tradicional. Um WorkSpace é disponibilizado na forma de um pacote com sistema operacional, recursos computacionais, espaço de armazenamento e aplicações de software que permitem a um usuário executar tarefas do dia a dia da mesma forma como faria com um desktop tradicional.  Amazon WorkSpaces é um serviço de desktop gerenciado e protegido na cloud. Você pode usar o Amazon WorkSpaces para provisionar desktops Windows ou Linux em apenas alguns minutos e escalar rapidamente para oferecer milhares de desktops a funcionários em todo o mundo. [Amazon WorkSpaces](https://aws.amazon.com/pt/workspaces/faqs/?nc=sn&loc=4)
+  * Amazon WorkSpace é um desktop virtual na cloud que atua como substituto de um desktop tradicional. Um WorkSpace é disponibilizado na forma de um pacote com sistema operacional, recursos computacionais, espaço de armazenamento e aplicações de software que permitem a um usuário executar tarefas do dia a dia da mesma forma como faria com um desktop tradicional.  Amazon WorkSpaces é um serviço de desktop gerenciado e protegido na cloud. Você pode usar o Amazon WorkSpaces para provisionar desktops Windows ou Linux em apenas alguns minutos e escalar rapidamente para oferecer milhares de desktops a funcionários em todo o mundo. [Amazon WorkSpaces](https://aws.amazon.com/pt/workspaces/faqs/?nc=sn&loc=4)
 
 
 ### Contêineres:  
 
-* Amazon Elastic Container Service (Amazon ECS)
-* Amazon Elastic Kubernetes Service (Amazon EKS)
-* AWS Fargate   
+* Amazon Elastic Container Service (Amazon ECS) )(Containers)  
+   * O Amazon Elastic Container Service (Amazon ECS) é um serviço de gerenciamento de contêineres altamente rápido e escalável. Você pode usá-lo para executar, interromper e gerenciar contêineres em um cluster. No Amazon ECS, seus contêineres são definidos em uma definição de tarefa que você usa para executar tarefas individuais ou tarefas em um serviço. [Amazon ECS](https://docs.aws.amazon.com/pt_br/AmazonECS/latest/developerguide/Welcome.html)  
+
+
+* Amazon Elastic Kubernetes Service (Amazon EKS) (Gerenciamento de Containers)   
+  * O Kubernetes é um sistema de orquestração de contêineres de código aberto que permite implantar e gerenciar aplicações em contêineres em grande escala. [Amazon EKS](https://aws.amazon.com/pt/eks/faqs/)
+
+
+* AWS Fargate (Computação sem servidor para contêineres)
+  * O Kubernetes é um sistema de orquestração de contêineres de código aberto que permite implantar e gerenciar aplicações em contêineres em grande escala. [AWS Fargate](https://aws.amazon.com/pt/eks/faqs/)    
+
 
 ### Banco de dados:
 * Amazon Aurora
