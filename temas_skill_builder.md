@@ -124,3 +124,8 @@ https://aws.amazon.com/pt/compliance/shared-responsibility-model/
 [Faturamento Consolidado](https://docs.aws.amazon.com/pt_br/awsaccountbilling/latest/aboutv2/consolidated-billing.html)
 
 
+### Cloud Watch, produto da AWS pode criar um alarme que envia uma notificação quando um limite de faturamento é excedido.
+
+* Você pode monitorar suas cobranças estimadas da AWS usando o CloudWatch. Quando você ativa o monitoramento de cobranças estimadas em sua conta da AWS, elas são calculadas e enviadas várias vezes ao dia para o CloudWatch como dados de métrica.  
+
+[CloudWatch](https://docs.aws.amazon.com/pt_br/AmazonCloudWatch/latest/monitoring/monitor_estimated_charges_with_cloudwatch.html)
