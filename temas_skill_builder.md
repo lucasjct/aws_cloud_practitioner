@@ -102,3 +102,25 @@ https://aws.amazon.com/pt/compliance/shared-responsibility-model/
 [Amazon CloudFront](https://docs.aws.amazon.com/pt_br/AmazonCloudFront/latest/DeveloperGuide/IntroductionUseCases.html#IntroductionUseCasesStaticWebsite)
 
 
+
+###  Solução de armazenamento de arquivos compartilhado, simples e escalável para uso com servidores locais e instâncias Amazon EC2 baseadas em Linux
+
+* Amazon Elastic File System . Amazon EFS fornece um sistema de arquivos elástico que permite compartilhar dados de arquivos sem a necessidade de provisionar e gerenciar o armazenamento. Ele pode ser usado com os serviços de nuvem da AWS e recursos locais, e foi criado visando dimensionar sob demanda para petabytes sem interromper as aplicações. Com o Amazon EFS, é possível aumentar e reduzir seus sistemas de arquivos automaticamente à medida que adiciona e remove arquivos, eliminando a necessidade de provisionar e gerenciar a capacidade para acomodar o crescimento.  
+[Amazon EFS](https://docs.aws.amazon.com/pt_br/efs/latest/ug/efs-onpremises.html) 
+
+
+### Planos de suporte AWS   
+* Tipos de planos:  
+[AWS Supporte](https://aws.amazon.com/pt/premiumsupport/plans/)   
+
+###  Modelo de preço do Amazon EC2 se ajusta com base na oferta e na demanda de instâncias EC2   
+* Instâncias Spot.  As instâncias spot são descontadas mais intensamente quando há mais capacidade disponível nas zonas de disponibilidade.  
+[Instâncias Spot](https://aws.amazon.com/pt/ec2/spot/)   
+
+
+### Exemplo de uma vantagem do faturamento consolidado na AWS  
+
+* Qualificação de preços por volumes. O faturamento consolidado é um recurso do AWS Organizations. É possível combinar o uso em todas as contas na organização para compartilhar os descontos de preços por volume, os descontos de instância reservada e os Savings Plans. Essa solução pode resultar em uma carga menor em comparação com o uso de contas individuais independentes.  
+[Faturamento Consolidado](https://docs.aws.amazon.com/pt_br/awsaccountbilling/latest/aboutv2/consolidated-billing.html)
+
+
