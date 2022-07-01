@@ -8,9 +8,22 @@ Fonte: <a target="blank" href = https://aws.amazon.com/pt/certification/certifie
 
 ***  
 
-## Fonte do conteúdo  
+## Fonte do conteúdo   
+
 
 ### Bonde da AWS:   
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VrQVDbgwFDs" title="YouTube></iframe>
+O Bonde da AWS foi uma iniciativa entre a [LinuxTips](https://www.linuxtips.io/) e o pessoal da AWS em auxiliar na certificação Cloud Practitioner. Foram 7 horas de treinamento para a comunidade, focado nos principais domínios da prova.    
 
+Ao final do curso há 30 perguntas baeadas no exame que também são boas para a preparação.
+
+[![Watch the video](./img/linuxtips.png)](https://www.youtube.com/embed/VrQVDbgwFDs)   
+
+### AWS Cloud Practitioner - parte 1/3 (ft. Thauany Moedano)  
+
+O curso da certificação ofertado pela Thauany Moedano, pela empresa Zappts, faz um overview focado em todos os temas da certificação. O conteúdo  é revisado levando em consideração a palavra chave de cada serviço da AWS que devemos nos atentar e seu caso de uso. O temas são bem divididos e de acordo com o guia da certificação. 
+
+Sempre no final dos módulos, há algumas perguntas sobre os temas também para nos preparmos.
+
+
+[![Watch the video](./img/zappts.png)](https://www.youtube.com/watch?v=bGZXVslod5E)  
