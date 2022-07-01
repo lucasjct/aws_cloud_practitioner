@@ -12,4 +12,5 @@ Fonte: <a target="blank" href = https://aws.amazon.com/pt/certification/certifie
 
 ### Bonde da AWS:   
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VrQVDbgwFDs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VrQVDbgwFDs" title="YouTube></iframe>
+
