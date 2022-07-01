@@ -26,4 +26,18 @@ O curso da certificação ofertado pela Thauany Moedano, pela empresa Zappts, fa
 Sempre no final dos módulos, há algumas perguntas sobre os temas também para nos preparmos.
 
 
-[![Watch the video](./img/zappts.png)](https://www.youtube.com/watch?v=bGZXVslod5E)  
+[![Watch the video](./img/zappts.png)](https://www.youtube.com/watch?v=bGZXVslod5E)    
+
+
+### AWS Skill Builder  (AWS Cloud Practitioner Essentials Portuguese)
+ 
+
+A Skill Builder é a plataforma da AWS de treinamentos, inclusive para certificações. Neste sentido, o Curso voltado para a AWS Cloud Practitioner, é todo ministrado em português.  
+
+O conteúdo é dividido de acordo com o que é cobrado na prova e passado de maneira interativa com ótima didática. É fundamental fazê-lo quando se parti do zero, como meu caso. Ao final de cada tópico possui um resumo, os links para as documentações e um quiz para nos testar.  
+
+Ao final do treinamento, temos acesso a 30 questões que no ambientaliza aos temas que serão cobrados. 
+
+Para fazer este curso, basta acessar a Skill Builder em: https://explore.skillbuilder.aws/learn/signin . Uma feito o cadastro, devemos pesquisa por: __AWS Cloud Practitioner Essentials Portuguese__ , conforme a seta indica no print abaixo.  
+
+![skill](./img/skill%20builder.png)
