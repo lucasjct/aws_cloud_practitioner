@@ -45,4 +45,4 @@ Para fazer este curso, basta acessar a Skill Builder em: https://explore.skillbu
 __OBS:__   
 
 Ao final da preparação para os estudos ou durante as revisões, indico por último a realização de simulados. Os que me ajudaram foram 3 simulados que comprei na Udemy:
-![Simulados preparatórios Cloud Practitioner](https://www.udemy.com/course/aws-practitioner-em-portugues/)
+[Simulados preparatórios Cloud Practitioner](https://www.udemy.com/course/aws-practitioner-em-portugues/)
