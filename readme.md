@@ -40,4 +40,9 @@ Ao final do treinamento, temos acesso a 30 questões que no ambientaliza aos tem
 
 Para fazer este curso, basta acessar a Skill Builder em: https://explore.skillbuilder.aws/learn/signin . Uma feito o cadastro, devemos pesquisa por: __AWS Cloud Practitioner Essentials Portuguese__ , conforme a seta indica no print abaixo.  
 
-![skill](./img/skill%20builder.png)
+![skill](./img/skill%20builder.png)     
+
+__OBS:__   
+
+Ao final da preparação para os estudos ou durante as revisões, indico por último a realização de simulados. Os que me ajudaram fora 3 simulados que comprei na Udemy:
+![Simulados preparatórios Cloud Practitioner](https://www.udemy.com/course/aws-practitioner-em-portugues/)
